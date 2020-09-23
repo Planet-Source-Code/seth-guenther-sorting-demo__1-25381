@@ -1,0 +1,7 @@
+frmSort = 44, 44, 581, 488, , 22, 22, 559, 466, C
+modMergeSort = 154, 154, 701, 590, C
+modQuickSort = 44, 44, 569, 484, C
+modBubbleSort = 66, 66, 613, 502, C
+modSwap = 110, 110, 657, 546, C
+modSelectionSort = 198, 198, 745, 634, C
+modInsertionSort = 22, 22, 569, 458, C
